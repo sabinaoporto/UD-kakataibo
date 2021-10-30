@@ -1,0 +1,57 @@
+1	Emilio	_	NOUN	_	_	9	nsubj	_	Emilio:abs
+2	ka	_	PART	_	_	9	aux:spgen	_	nar:3
+3	=a	_	PART	_	_	9	nsubj	_	_
+4	mas	_	ADV	_	_	6	goeswith	_	more
+5	xuá	_	ADJ	_	_	9	cop	_	fat
+6	ki	_	CCONJ	_	_	7	case	_	than
+7	Roberto	_	NOUN	_	_	9	obl	_	Roberto
+8	=ma	_	PART	_	_	9	advmod	_	=neg
+9	‘ikën	_	VERB	_	_	0	root	_	be:3
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+1	atian	_	ADV	_	_	11	discourse	_	then
+2	casi	_	ADV	_	_	3	advmod	_	almost
+3	kamabi	_	DET	_	_	4	nummod	_	every
+4	nëtë	_	NOUN	_	_	11	advmod	_	day
+5	=n	_	PART	_	_	4	case	_	=temp
+6	ka	_	PART	_	_	11	aux:spgen	_	nar
+7	=is	_	PART	_	_	11	aux:evid	_	=rep
+8	=a	_	PART	_	_	11	nsubj	_	=3
+9	a	_	DET	_	_	10	det	_	that
+10	uni	_	NOUN	_	_	11	nsubj	_	person:abs
+11	kwan-akë-x-ín	_	VERB	_	_	0	root	_	go-rem.pst-3-prox
+12	.	_	PUNCT	_	_	11	punct	_	_
+
+1	paën-xun	_	VERB	_	_	_	_	_	get.drunk-s/a>a
+2	ka	_	PART	_	_	_	_	_	nar
+3	=na	_	PART	_	_	_	_	_	=1sg
+4	‘ë	_	NOUN	_	_	_	_	_	1sg
+5	=n	_	PART	_	_	_	_	_	a
+6	‘atsa	_	NOUN	_	_	_	_	_	manioc:abs
+7	kwëën-i-n	_	VERB	_	_	0	root	_	want-ipfv-½
+8	.	_	PUNCT	_	_	_	_	_	_
+
+1	nukën	_	DET	_	_	2	nmod	_	our
+2	papaokë	_	NOUN	_	_	10	nsubj	_	ancestor
+3	=kama	_	PART	_	_	2	nmod	_	=pl
+4	ka	_	PART	_	_	10	aux:spgen	_	nar
+5	=a	_	PART	_	_	10	nsubj	_	_
+6	uni	_	NOUN	_	_	10	cop	_	man
+7	chaxké	_	ADJ	_	_	6	amod	_	big
+8	siná	_	ADJ	_	_	9	amod	_	brave
+9	uni	_	NOUN	_	_	10	cop	_	man
+10	‘i-akë-x-a	_	VERB	_	_	0	root	_	be-rem.pst-3-non.prox
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+1	ka	_	PART	_	_	11	aux:spgen	_	nar
+2	=nanuna	_	PART	_	_	11	nsubj	_	=1pl
+3	toxama	_	NOUN	_	_	5	obj	_	tree.sp
+4	upí	_	ADJ	_	_	3	amod	_	beautiful:abs
+5	bits-tankëxun	_	VERB	_	_	11	advcl	_	pick.up-s/a>a:pe
+6	taish	_	NOUN	_	_	8	obj	_	tree.sp
+7	a	_	NOUN	_	_	6	appos	_	3sg:p
+8	bits-tankëxun	_	VERB	_	_	11	advcl	_	buy-s/a>a:pe
+9	ka	_	PART	_	_	11	aux:spgen	_	nar
+10	=nanuna	_	PART	_	_	11	nsubj	_	=1pl
+11	‘aru-i-n	_	VERB	_	_	0	root	_	cook-ipfv-½
+12	.	_	PUNCT	_	_	11	punct	_	_
